@@ -155,6 +155,6 @@
   <footer>
     <p>© 2025 Artala.Coffee — kopi cita-cita tinggi.</p>
   </footer>
-</body> </html>
+</body> 
 
 
