@@ -9,15 +9,9 @@ ArtalaCoffee.github.io
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Artala Coffee</title>
-  <link rel="stylesheet" href="style.css">
-  <style>
-    :root {
-      --primary: #3c2f2f;         /* warna kopi gelap */
-      --secondary: #c2a878;       /* warna krem/emas kopi */
-      --background: #f9f6f1;      /* latar tenang */
-      --accent: #8c5e3c;          /* aksen coklat hangat */
-    }
+
+
+  
 
     body {
       margin: 0;
