@@ -83,8 +83,9 @@
       padding: 20px;
       background-color: var(--secondary);
       color: var(--primary);
-    }
-  </style>
+    }</style>
+
+  
 </head>
 <body>
   <header>
